@@ -117,7 +117,9 @@ width: 300px;
 }
 
 .sectionBreak{
-    margin-bottom: var(--l-spacing);
+margin-bottom: 3rem;
+border-bottom: 1px solid gold;
+margin-top: 4rem;
 }
 
 /* SECTION  Certificates da investimento */
